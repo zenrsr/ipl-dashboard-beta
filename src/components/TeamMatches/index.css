@@ -1,0 +1,30 @@
+.team-match-container {
+  background-image: linear-gradient(to bottom, #a4261d, black);
+  align-items: center;
+  padding: 2%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: 'Bree Serif';
+  min-height: 100vh;
+  width: 100vw;
+  text-align: center;
+}
+.team-banner {
+  align-self: center;
+}
+.info {
+  color: #ffffff;
+  align-self: flex-start;
+  text-align: center;
+  margin-left: 5%;
+  font-size: 40px;
+}
+.match-container {
+  width: 95%;
+}
+.match-card-list-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

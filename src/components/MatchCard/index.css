@@ -1,0 +1,26 @@
+.match-card-container {
+  background-color: #1e293b;
+  border: none;
+  border-radius: 10px;
+  width: 30%;
+  height: auto;
+  margin: 1%;
+  padding: 2%;
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.img {
+  width: 150px;
+  height: 150px;
+}
+.won {
+  color: #e31a1a;
+}
+.lost {
+  color: #18ed66;
+}
